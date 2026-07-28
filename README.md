@@ -1,4 +1,4 @@
-<img align="right" src="./assets/climbingalone8bits.jpeg" alt="escalada" width="280">
+<img align="right" src="./images/climbingalone8bits.jpeg" alt="escalada" width="280">
 
 # Me chamo João Victor e sou desenvolvedor de software.
 ### Fui bombeiro militar, mecânico retificador e soldador. Hoje trago essa espertize de resolução de problemas pra cá.
@@ -22,7 +22,7 @@
 
 ---
 
-<img align="left" src="./assets/climbing8bits.jpeg" alt="escalandodupla" width="280">
+<img align="left" src="./images/climbing8bits.jpeg" alt="escalandodupla" width="280">
 
  Feito por João Victor Paixão Zolim
 <br clear="left">
