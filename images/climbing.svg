@@ -1,0 +1,51 @@
+<svg viewBox="0 0 420 110" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="420" height="110" fill="#0d1b2a"/>
+
+  <!-- LOADING text, pixel style -->
+  <text x="210" y="42" text-anchor="middle" font-family="'Courier New', monospace" font-size="26" font-weight="bold" letter-spacing="6" fill="#39d3c3">
+    CLIMBING
+    <animate attributeName="fill" values="#39d3c3;#f4a259;#39d3c3" dur="2s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- Blinking cursor block -->
+  <rect x="330" y="24" width="14" height="20" fill="#f4a259">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Loading bar frame -->
+  <rect x="60" y="70" width="300" height="20" fill="none" stroke="#39d3c3" stroke-width="3"/>
+
+  <!-- Pixel blocks filling the bar in a loop -->
+  <g>
+    <rect x="64" y="74" width="24" height="12" fill="#f4a259">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.9;1" dur="1.8s" repeatCount="indefinite" begin="0s"/>
+    </rect>
+    <rect x="92" y="74" width="24" height="12" fill="#f4a259">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.9;1" dur="1.8s" repeatCount="indefinite" begin="0.12s"/>
+    </rect>
+    <rect x="120" y="74" width="24" height="12" fill="#f4a259">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.9;1" dur="1.8s" repeatCount="indefinite" begin="0.24s"/>
+    </rect>
+    <rect x="148" y="74" width="24" height="12" fill="#f4a259">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.9;1" dur="1.8s" repeatCount="indefinite" begin="0.36s"/>
+    </rect>
+    <rect x="176" y="74" width="24" height="12" fill="#f4a259">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.9;1" dur="1.8s" repeatCount="indefinite" begin="0.48s"/>
+    </rect>
+    <rect x="204" y="74" width="24" height="12" fill="#f4a259">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.9;1" dur="1.8s" repeatCount="indefinite" begin="0.6s"/>
+    </rect>
+    <rect x="232" y="74" width="24" height="12" fill="#f4a259">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.9;1" dur="1.8s" repeatCount="indefinite" begin="0.72s"/>
+    </rect>
+    <rect x="260" y="74" width="24" height="12" fill="#f4a259">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.9;1" dur="1.8s" repeatCount="indefinite" begin="0.84s"/>
+    </rect>
+    <rect x="288" y="74" width="24" height="12" fill="#f4a259">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.9;1" dur="1.8s" repeatCount="indefinite" begin="0.96s"/>
+    </rect>
+    <rect x="316" y="74" width="24" height="12" fill="#f4a259">
+      <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.05;0.9;1" dur="1.8s" repeatCount="indefinite" begin="1.08s"/>
+    </rect>
+  </g>
+</svg>
