@@ -1,3 +1,8 @@
+<p align="center"> <img src="./assets/loading.svg" alt="loading animation" width="420"> </p>
+
+
+
+
 <img align="right" src="./images/climbingalone8bits.jpeg" alt="escalada" width="280">
 
 # João Victor | Desenvolvedor de Software.
