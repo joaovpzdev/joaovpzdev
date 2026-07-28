@@ -1,4 +1,4 @@
-<p align="center"> <img src="./images/climbing" alt="loading animation" width="420"> </p>
+<p align="center"> <img src="./images/loading.svg" alt="loading animation" width="420"> </p>
 
 
 
