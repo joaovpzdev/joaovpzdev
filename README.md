@@ -1,4 +1,4 @@
-<p align="center"> <img src="./images/climbing.svg" alt="loading animation" width="420"></p>
+<p align="center"> <img src="./images/climbing.svg" alt="loading animation" width="580"></p>
 
 
 <img align="right" src="./images/climbingalone8bits.jpeg" alt="escalada" width="280">
@@ -6,7 +6,8 @@
 # João Victor | Desenvolvedor de Software.
 Fui bombeiro militar, mecânico retificador e soldador. Hoje trago essa expertise de resolução de problemas pra cá. Sou um homem comum que 
 escala, corre e pratica powerlifting, afundado na constante vontade de me aperfeiçoar ao máximo naquilo que me proponho.
-Sou um entusiasta de cinema e eu acredito que se você quer ganhar na loteria, precisa fazer o dinheiro para comprar o ticket.
+Sou um entusiasta de cinema e eu acredito que se você quer ganhar na loteria, precisa fazer a grana para comprar o bilhete.
+Grande adepto do uso de IA.
 
 
 
@@ -22,10 +23,10 @@ Sou um entusiasta de cinema e eu acredito que se você quer ganhar na loteria, p
 
 <img align="left" src="./images/climbing8bits.jpeg" alt="escalandodupla" width="280">
 
- Gosto da ideia de "gamificar" aplicações e trazer essa ideia para criar aderência na utilização das aplicações. Gosto de criar coisas genuinamente úteis e que ajudarão, ou, 
+ Gosto da ideia de "gamificar" aplicações e trazer isso para criar aderência na utilização delas. Quero criar coisas genuinamente úteis e que ajudarão, ou, 
  pelo menos, serão divertidas de usar e implementar no cotidiano.
- A ideia da codificação nada mais é que a expressão tecnológica da arte com limitações inexistentes, contudo, o preço que se cobra é a capacidade de metacriar aquilo que se pensa no editor de código e posteriormente publicá-lo em algum lugar que dê visibilidade 
+ A ideia da codificação nada mais é que a expressão tecnológica da arte sem limitações, contudo, o preço que se cobra é a capacidade de metacriar aquilo que se pensa no editor de código e posteriormente publicá-lo em algum lugar que dê visibilidade 
  a aquilo que foi "desenhado" pelas letrinhas coloridas.
  <br clear="left">
-
+<footer> ©JoaoVPZDev </footer>
 
