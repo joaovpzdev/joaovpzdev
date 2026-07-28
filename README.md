@@ -1,4 +1,5 @@
-<img align="center"> <img src="./images/climbing.svg" alt="loading animation" width="420"> 
+<p align="center"> <img src="./images/climbing.svg" alt="loading animation" width="420"></p>
+
 
 <img align="right" src="./images/climbingalone8bits.jpeg" alt="escalada" width="280">
 
