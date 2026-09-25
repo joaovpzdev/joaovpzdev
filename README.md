@@ -42,5 +42,8 @@ Sou um entusiasta de cinema e **eu acredito que se você quer ganhar na loteria,
  a aquilo que foi "desenhado" pelas letrinhas coloridas. Grande adepto do uso de IA.
 
  <br clear="left">
+
+ ![Snake animation](https://github.com/joaovpzdev/joaovpzdev/blob/output/github-contribution-grid-snake.svg)
+
 <footer> ©JoaoVPZDev </footer>
 
