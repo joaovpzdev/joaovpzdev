@@ -3,10 +3,8 @@
 
 <img align="right" src="./images/climbingalone8bits.jpeg" alt="escalada" width="280">
 
-# João Victor | Desenvolvedor de Software.
-Fui bombeiro militar, mecânico retificador e soldador. Hoje trago essa expertise de resolução de problemas pra cá. Sou um homem comum que 
-escala, corre e pratica powerlifting, afundado na constante vontade de me aperfeiçoar ao máximo naquilo que me proponho.
-Sou um entusiasta de cinema e **eu acredito que se você quer ganhar na loteria, precisa fazer a grana para comprar o bilhete.**
+# João Victor | Software Developer.
+I was a military firefighter, a reconditioning mechanic, and a welder. Today I bring that problem-solving expertise here. I'm an ordinary man who climbs, runs, and practices powerlifting, driven by a constant desire to improve as much as possible in whatever I set out to do. I'm a movie enthusiast, and I believe that if you want to win the lottery, you need to make the money to buy the ticket.**
 
 
 
@@ -36,10 +34,7 @@ Sou um entusiasta de cinema e **eu acredito que se você quer ganhar na loteria,
 
 <img align="left" src="./images/climbing8bits.jpeg" alt="escalandodupla" width="280">
 
- Gosto da ideia de "gamificar" aplicações e trazer isso para criar aderência na utilização delas. Quero criar coisas genuinamente úteis e que ajudarão, ou, 
- pelo menos, serão divertidas de usar e implementar no cotidiano.
- A ideia da codificação nada mais é que a expressão tecnológica da arte sem limitações, contudo, o preço que se cobra é a capacidade de metacriar aquilo que se pensa no editor de código e posteriormente publicá-lo em algum lugar que dê visibilidade 
- a aquilo que foi "desenhado" pelas letrinhas coloridas. Grande adepto do uso de IA.
+I like the idea of "gamifying" apps and bringing that in to create adherence in their use. I want to create things that are genuinely useful and that will help, or at least, be fun to use and implement in daily life. The idea of coding is nothing more than the technological expression of art without limitations; however, the price you pay is the ability to meta-create what you think in the code editor and later publish it somewhere that gives visibility to what was "designed" by the little colorful letters. Big supporter of using AI.
 
  <br clear="left">
 
