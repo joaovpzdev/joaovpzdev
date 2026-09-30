@@ -1,49 +1,90 @@
-<p align="center"> <img src="./images/climbing.svg" alt="loading animation" width="580"></p>
+<p align="center">
+  <img src="images/climbing.svg" alt="Climbing" />
+</p>
+
+# João Victor Paixão Zolim | Cyber Security
+
+**SOC · Pentest** · Ethical Hacker (Cisco) · Oracle Cloud Infrastructure Foundations Associate
+
+Estou em transição de carreira para Segurança da Informação. Antes disso fui bombeiro militar, mecânico de retífica e soldador, e trago dessas áreas a disciplina, a calma sob pressão e o hábito de resolver problema na prática. Aprendo construindo: cada projeto abaixo nasceu de uma pergunta que eu quis responder com um laboratório funcionando.
+
+> **EN:** Career changer into Information Security, focused on Blue Team (SOC and monitoring) and pentesting. Former military firefighter, self-taught, English C1 (reading/listening) and B2 (speaking). I build hands-on labs and document what I learn.
 
 
-<img align="right" src="./images/climbingalone8bits.jpeg" alt="escalada" width="280">
+## Projetos em destaque
 
-# João Victor | Desenvolvedor de Software.
-Fui bombeiro militar, mecânico retificador e soldador. Hoje trago essa expertise de resolução de problemas pra cá. Sou um homem comum que 
-escala, corre e pratica powerlifting, afundado na constante vontade de me aperfeiçoar ao máximo naquilo que me proponho.
-Sou um entusiasta de cinema e **eu acredito que se você quer ganhar na loteria, precisa fazer a grana para comprar o bilhete.**
+### Blue Team: monitoramento, detecção e resposta
 
+| Projeto | O que faz | Stack |
+|---|---|---|
+| [zabbix-security-monitoring](https://github.com/joaovpzdev/zabbix-security-monitoring) | Laboratório de observação de segurança em um host Windows. Detecta login falho (Event ID 4625), novo serviço instalado (7045) e Windows Defender desativado, com alerta por e-mail. Inclui o troubleshooting documentado. | Zabbix 7.0, Docker, MySQL, PowerShell |
+| [sec-dash-zabbix](https://github.com/joaovpzdev/sec-dash-zabbix) | Dashboard que consome a API do Zabbix e mostra os alertas das últimas 24 horas com gráficos de severidade. | Python, Flask, Chart.js |
+| [soar-triagem](https://github.com/joaovpzdev/soar-triagem) | Recebe alertas de um SIEM por webhook, enriquece o IP com AbuseIPDB e escala no Slack conforme o risco. | Python, Flask, Redis, SQLite, Docker Compose |
+| [checklist-hardening](https://github.com/joaovpzdev/checklist-hardening) | Audita, sem alterar o sistema, SSH, firewall, atualizações e contas sem senha, com relatório PASS/WARN/FAIL. | Bash, Linux |
+| [leak-monitor](https://github.com/joaovpzdev/leak-monitor) | Verifica e-mails em bases de vazamento e alerta apenas sobre vazamentos novos. | Node.js, cron, Slack/Discord |
 
+### Red Team: reconhecimento, OSINT e gestão de achados
 
-## Stack
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-%2385EA2D.svg?style=for-the-badge&logo=swagger&logoColor=black)
-![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-%233982CE.svg?style=for-the-badge&logo=Prisma&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
-![YAML](https://img.shields.io/badge/yaml-%23ffffff.svg?style=for-the-badge&logo=yaml&logoColor=151515)
-![Kali](https://img.shields.io/badge/Kali-%23268BEE.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+| Projeto | O que faz | Stack |
+|---|---|---|
+| [pentest-findings-dash](https://github.com/joaovpzdev/pentest-findings-dash) | Gestão de achados de pentest: importa Nmap, Nuclei e Burp Suite, deduplica reimportações e acompanha a remediação. | Node.js, React, PostgreSQL, Prisma |
+| [visual-recon](https://github.com/joaovpzdev/visual-recon) | Captura screenshot, título e tecnologias de cada host e monta uma galeria HTML para triagem visual. | Node.js, Chromium headless |
+| [cyber-sec-journey](https://github.com/joaovpzdev/cyber-sec-journey) | Documentação do meu estudo: metodologia de pentest, ferramentas do Kali Linux, SQL Injection e Bash. | Kali Linux, Bash |
 
 ---
 
-<img align="left" src="./images/climbing8bits.jpeg" alt="escalandodupla" width="280">
+## Stack
 
- Gosto da ideia de "gamificar" aplicações e trazer isso para criar aderência na utilização delas. Quero criar coisas genuinamente úteis e que ajudarão, ou, 
- pelo menos, serão divertidas de usar e implementar no cotidiano.
- A ideia da codificação nada mais é que a expressão tecnológica da arte sem limitações, contudo, o preço que se cobra é a capacidade de metacriar aquilo que se pensa no editor de código e posteriormente publicá-lo em algum lugar que dê visibilidade 
- a aquilo que foi "desenhado" pelas letrinhas coloridas. Grande adepto do uso de IA.
+**Segurança e infraestrutura**
 
- <br clear="left">
+![Kali](https://img.shields.io/badge/Kali-%23268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Zabbix](https://img.shields.io/badge/Zabbix-%23CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
- ![Snake animation](https://github.com/joaovpzdev/joaovpzdev/blob/output/github-contribution-grid-snake.svg)
+**Desenvolvimento**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-%236DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-%233982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## Certificações
+
+- **Ethical Hacker**, Cisco
+- **Introduction to Cybersecurity**, Cisco
+- **Oracle Cloud Infrastructure Foundations Associate**, Oracle
+
+---
+
+## Em evolução
+
+- Ampliar o laboratório de monitoramento com agentes Linux e comunicação criptografada (TLS/PSK) entre agente e servidor
+- Integrar o SOAR de triagem a um SIEM de mercado
+- Documentar cada aprendizado com prints e passo a passo para reproduzir
+
+---
+
+## Aviso de uso ético
+
+As ferramentas de reconhecimento e pentest deste perfil são educacionais e devem ser usadas **apenas em ambientes que você possui ou tem autorização por escrito para testar**.
+
+---
+
+## Contato
+
+[joaovpz.dev@gmail.com](mailto:joaovpz.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/joao-victor-paixao-zolim)
+
+<sub>Fora do computador: escalador, corredor e powerlifter.</sub>
+
+![Snake animation](https://github.com/joaovpzdev/joaovpzdev/blob/output/github-contribution-grid-snake.svg)
 
 <footer> ©JoaoVPZDev </footer>
 
