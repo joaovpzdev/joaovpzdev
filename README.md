@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="images/climbing.svg" alt="Climbing" />
-</p>
+
 
 <p align="center">
   <img src="images/climbing.svg" alt="Climbing" />
